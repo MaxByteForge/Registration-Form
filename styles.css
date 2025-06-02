@@ -66,3 +66,7 @@ input[type="submit"] {
   border-color: white;
   min-width: 300px;
 }
+
+input[name="terms-and-conditions"] {
+  color: #dfdfe2;
+}
